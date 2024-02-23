@@ -1,0 +1,5 @@
+ System.out.println(); 
+    System.out.print("Usage :java CDSBillingSubscriber "); 
+    System.out.print("clientID subName selector "); 
+    System.out.print("durable transactional "); 
+    System.out.print("jndiCtxFactory connFactory "); 

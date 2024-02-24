@@ -1,0 +1,3 @@
+EXEC_LCP="${EXEC_LCP}:${CDSLIB_DIR}/eventserviceclient.jar" 
+EXEC_LCP="${EXEC_LCP}:${LIB_DIR}/imq.jar" 
+EXEC_LCP="${EXEC_LCP}:${LIB_DIR}/fscontext.jar" 

@@ -1,0 +1,3 @@
+EXEC_LCP=".:${LIB_DIR}/jms.jar" 
+EXEC_LCP="${EXEC_LCP}:${CDSLIB_DIR}/cdsapi.jar" 
+EXEC_LCP="${EXEC_LCP}:${CDSLIB_DIR}/foundation.jar" 

@@ -1,0 +1,3 @@
+ if (selector == null) 
+      selector = null; 
+    else if (selector.trim().length() == 0) 

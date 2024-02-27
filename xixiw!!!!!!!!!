@@ -1,0 +1,4 @@
+  public ContentInfo getContentDescriptor( 
+    ContentInfo inContentInfo, 
+    BillingInfo inBillingInfo) 
+  throws ContentException 

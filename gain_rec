@@ -1,0 +1,6 @@
+            again_rect.left, again_rect.top = \
+                        (width - again_rect.width) // 2,\
+                        gameover_text2_rect.bottom + 50
+            screen.blit(again_image, again_rect)
+ 
+            gameover_rect.left, gameover_rec

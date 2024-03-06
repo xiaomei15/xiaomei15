@@ -1,0 +1,7 @@
+nk.setLevel(1);
+                            myTank.setX(selfBorn.getX());
+                            myTank.setY(selfBorn.getY());
+                            myTank.setDir(Direction.U);
+                            myTank.setHp(50);
+                            myTank.setLive(true);
+                        }

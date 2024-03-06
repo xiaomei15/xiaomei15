@@ -1,0 +1,8 @@
+        f.setVisible(true);
+ 
+        new Thread(new Runnable() {
+            public void run() {
+                while (!over) {
+                    if (!myTank.isLive()) {
+                        selfMax--;
+                        if (selfMax < 0) {

@@ -1,0 +1,4 @@
+	int row,col,n;
+	clrscr();
+	printf("Please input the order of the matrix:\n");/* */
+	scanf("%d",&n);

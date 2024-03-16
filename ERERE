@@ -1,0 +1,6 @@
+
+	clrscr();
+	printf("Enter elements of the matrixA,");
+	printf("%d*%d:\n",ROW,COL);
+	for( i=0; i<ROW; i++ )
+	{

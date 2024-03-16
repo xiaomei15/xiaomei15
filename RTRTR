@@ -1,0 +1,7 @@
+		for( j=0; j<COL; j++ )
+		{
+			scanf("%d",&matrixA[i][j]);
+		}
+	}
+
+	for( i=0; i<ROW; i++ )

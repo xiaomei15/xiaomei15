@@ -1,0 +1,4 @@
+        private static Object classVar2;
+
+        /** instanceVar1 documentation comment */
+        public Object instanceVar1;
